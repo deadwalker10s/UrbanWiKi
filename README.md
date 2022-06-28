@@ -1,2 +1,2 @@
 # UrbanWiKi
-A content mangement, publishing website for DUAker.
+A content mangement, publishing website for D.U.A. ker.
